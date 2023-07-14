@@ -380,6 +380,12 @@ section .title::after{
 .skills-content .right .js::before{
     width: 50%;
 }
+.skills-content .right .react::before{
+    width: 50%;
+}
+.skills-content .right .mongo::before{
+    width: 25%;
+}
 
 /* projects section styling */
 .projects{
